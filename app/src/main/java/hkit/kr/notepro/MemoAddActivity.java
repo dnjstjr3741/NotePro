@@ -10,6 +10,8 @@ import android.widget.EditText;
 
 public class MemoAddActivity extends AppCompatActivity {
 
+    // 추가 액티비티
+
     EditText memoEditText;
     Button addButton;
 

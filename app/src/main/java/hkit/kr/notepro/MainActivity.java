@@ -17,6 +17,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    // 메인 엑티비티 
+
     int index;
 
     Button addButton;
