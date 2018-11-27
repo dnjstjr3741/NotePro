@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // 수정
+
         memos = new ArrayList<>();
         memos.add("메모 리스트 1");
         memos.add("메모 리스트 2");
